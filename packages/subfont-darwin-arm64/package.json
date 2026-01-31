@@ -1,6 +1,6 @@
 {
   "name": "@forthgoing/subfont-bin-darwin-arm64",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Binary to run subfont",
   "os": ["darwin"],
   "cpu": ["arm64"],
