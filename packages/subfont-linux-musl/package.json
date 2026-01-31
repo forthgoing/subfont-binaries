@@ -1,0 +1,10 @@
+{
+  "name": "@forthgoing/subfont-bin-linux-musl",
+  "version": "0.1.0",
+  "description": "Binary to run subfont",
+  "os": ["linux"],
+  "cpu": ["x64"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@forthgoing/subfont-bin-darwin-x64",
+  "version": "0.1.0",
+  "description": "Binary to run subfont",
+  "os": ["darwin"],
+  "cpu": ["x64"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

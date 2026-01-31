@@ -1,0 +1,8 @@
+{
+  "name": "subfont-binaries",
+  "private": true,
+  "description": "Distribution stubs for subfont binaries",
+  "workspaces": [
+    "packages/*"
+  ]
+}
